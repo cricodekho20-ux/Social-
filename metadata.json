@@ -1,0 +1,6 @@
+{
+  "name": "Social Video Saver",
+  "description": "Download and save your authorized videos with zero added watermarks, multiple quality options, download manager, and gallery integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
